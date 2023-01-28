@@ -137,4 +137,4 @@ function prev(){
 
 setInterval(()=>{
     next()
-},2000)
+},5000)
